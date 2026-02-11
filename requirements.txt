@@ -1,0 +1,6 @@
+pandas == 2.1.1
+streamlit == 1.27.2
+yfinance == 0.2.30
+plotly == 5.17.0
+datetime
+prophet == 1.1.4
